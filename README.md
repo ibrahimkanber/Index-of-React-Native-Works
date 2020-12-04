@@ -12,8 +12,7 @@
             <tr>
                 <td>Chat App</td>
                 <td><a href="https://github.com/ibrahimkanber/REACT-NATIVE-CHAT-APP">Repo details..</a></td>
-                <td>![chat](https://user-images.githubusercontent.com/65809527/101205487-fa15cd00-366d-11eb-82db-9776ec136caa.gif)
-</td>
+                <img src="https://user-images.githubusercontent.com/65809527/101205487-fa15cd00-366d-11eb-82db-9776ec136caa.gif" alt="">
             </tr>
             <tr>
                 <td>Quiz App</td>
