@@ -17,7 +17,7 @@
             <tr>
                 <td>Quiz App</td>
                 <td><a href="https://github.com/ibrahimkanber/REACT-NATIVE-QUIZ-APP">Repo details..</a></td>
-                <td><img src="(https://user-images.githubusercontent.com/65809527/101206374-54fbf400-366f-11eb-92bc-0dc41f0b710f.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/65809527/101206869-0e5ac980-3670-11eb-8a08-b6b4779df9e8.gif"  style="height:500px"></td>
             </tr>
             <tr>
                 <td>Yelp App</td>
